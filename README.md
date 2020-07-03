@@ -1,3 +1,6 @@
 # HelloWorld
-Study
-Учиться, учиться, учиться
+
+Study, study and study!
+Work, work and work!
+
+To get paid for my work!
